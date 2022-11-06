@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyatS7sr8nZyllL6afrg/BrN3FaNo/LspXhiME4FVRH+OL9t1vIZxPQFPE1nPgNX4Y4gnhKG7ooVNj4rFMzDBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\Desktop\\Programming\\Projects\\paint\\paint\\paint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\eto.forms\\2.6.1\\eto.forms.2.6.1.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

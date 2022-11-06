@@ -1,0 +1,1 @@
+Multiplatform paint clone project for learning desktop app development

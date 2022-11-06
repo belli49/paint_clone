@@ -1,0 +1,182 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "paint.Wpf/1.0.0": {
+        "dependencies": {
+          "Eto.Platform.Wpf": "2.6.1",
+          "paint": "1.0.0"
+        },
+        "runtime": {
+          "paint.Wpf.dll": {}
+        }
+      },
+      "Eto.Forms/2.6.1": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Eto.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.8046.12221"
+          }
+        }
+      },
+      "Eto.Platform.Wpf/2.6.1": {
+        "dependencies": {
+          "Eto.Forms": "2.6.1",
+          "Extended.Wpf.Toolkit": "3.6.0",
+          "Windows7APICodePack-Shell": "1.1.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Eto.Wpf.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.8046.12221"
+          }
+        }
+      },
+      "Extended.Wpf.Toolkit/3.6.0": {
+        "runtime": {
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          },
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          },
+          "lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          },
+          "lib/net40/Xceed.Wpf.AvalonDock.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          },
+          "lib/net40/Xceed.Wpf.Toolkit.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          }
+        },
+        "resources": {
+          "lib/net40/de/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net40/es/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net40/fr/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net40/hu/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net40/it/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net40/pt-BR/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net40/ro/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/net40/ru/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net40/sv/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net40/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {},
+      "Windows7APICodePack-Core/1.1.0": {
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Windows7APICodePack-Shell/1.1.0": {
+        "dependencies": {
+          "Windows7APICodePack-Core": "1.1.0"
+        },
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "paint/1.0.0": {
+        "dependencies": {
+          "Eto.Forms": "2.6.1"
+        },
+        "runtime": {
+          "paint.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paint.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eto.Forms/2.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ESlkzBblIYwCCl5k5JgplecUgTC9KrNKznHwFjRH+aMZklF2BAlpy23AlyCs708aOetiRoV3tDYxSaTrJ2H/fw==",
+      "path": "eto.forms/2.6.1",
+      "hashPath": "eto.forms.2.6.1.nupkg.sha512"
+    },
+    "Eto.Platform.Wpf/2.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LBHqFVht8qU0kVA0lZaaJ58QpNBf0rJDhdqLksQZPJCLK/BMWWlbhoXNKl+L7Ev9bkfNWCAH0XjhItJUalAHhw==",
+      "path": "eto.platform.wpf/2.6.1",
+      "hashPath": "eto.platform.wpf.2.6.1.nupkg.sha512"
+    },
+    "Extended.Wpf.Toolkit/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-flfPS2rtbCCXJv7m43MXBJWaPN0RsVRQn3MZO2VmMjs4pOHzL7WnsaSXbs0OHTLj71SA/+T4hdZC8f4FhvJSkA==",
+      "path": "extended.wpf.toolkit/3.6.0",
+      "hashPath": "extended.wpf.toolkit.3.6.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "hashPath": "system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    },
+    "Windows7APICodePack-Core/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T0cccZ6PQcauKk+rU8zSSIQuDjKPhAsyu8u0MDaa3hggA00tk/CcJ6ukzzKaXrXyHYzFbDAWdUdlLE4NSUdWnA==",
+      "path": "windows7apicodepack-core/1.1.0",
+      "hashPath": "windows7apicodepack-core.1.1.0.nupkg.sha512"
+    },
+    "Windows7APICodePack-Shell/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IVlZAP3MPktm/aNl0gptCAnfm0IblGvWu0J7b8zu7Di9Lc9Ep0ABu8757X1n5GACk/UIAg+tUCQGYQ2hWqWV7A==",
+      "path": "windows7apicodepack-shell/1.1.0",
+      "hashPath": "windows7apicodepack-shell.1.1.0.nupkg.sha512"
+    },
+    "paint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

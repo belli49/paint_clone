@@ -1,0 +1,10 @@
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\bin\Debug\netstandard2.0\paint.deps.json
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\bin\Debug\netstandard2.0\paint.dll
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\bin\Debug\netstandard2.0\paint.pdb
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\obj\Debug\netstandard2.0\paint.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\obj\Debug\netstandard2.0\paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\obj\Debug\netstandard2.0\paint.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\obj\Debug\netstandard2.0\paint.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\obj\Debug\netstandard2.0\paint.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\obj\Debug\netstandard2.0\paint.dll
+C:\Users\pedro\Desktop\Programming\Projects\paint\paint\obj\Debug\netstandard2.0\paint.pdb
